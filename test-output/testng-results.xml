@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-11T12:37:09 IST" name="Default suite" finished-at="2025-02-11T12:37:16 IST" duration-ms="6550">
+    <groups>
+    </groups>
+    <test started-at="2025-02-11T12:37:09 IST" name="Default test" finished-at="2025-02-11T12:37:16 IST" duration-ms="6550">
+      <class name="com.TestNg.FacebookMain">
+        <test-method is-config="true" signature="applicationLaunch()[pri:0, instance:com.TestNg.FacebookMain@291ae]" started-at="2025-02-11T12:37:09 IST" name="applicationLaunch" finished-at="2025-02-11T12:37:15 IST" duration-ms="5925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLaunch -->
+        <test-method signature="FacebookLogintext()[pri:0, instance:com.TestNg.FacebookMain@291ae]" started-at="2025-02-11T12:37:15 IST" name="FacebookLogintext" finished-at="2025-02-11T12:37:16 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookLogintext -->
+        <test-method is-config="true" signature="applicationClose()[pri:0, instance:com.TestNg.FacebookMain@291ae]" started-at="2025-02-11T12:37:16 IST" name="applicationClose" finished-at="2025-02-11T12:37:16 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationClose -->
+      </class> <!-- com.TestNg.FacebookMain -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
